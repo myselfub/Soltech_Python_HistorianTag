@@ -1,5 +1,5 @@
-# HistorianTag
-Python 히스토리안 태그
+# Soltech_Python_HistorianTag
+솔텍시스템-히스토리안 태그 조회 프로그램, Python
 
 pip install pandas
 pip install PyQt6
